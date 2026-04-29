@@ -82,12 +82,16 @@ The process of building AI models, especially LLMs, involves several steps:
 Large datasets are gathered from:
 
   Books
+
   Websites
+  
   Articles
+
 2. Data Preprocessing
 Cleaning data
 Tokenization (splitting text into smaller units)
-3. Model Training
+
+4. Model Training
 
 The model learns by predicting the next word in a sequence.
 
