@@ -1,11 +1,11 @@
-Ex-1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models.
+# Ex-1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models.
 
 Experiment: Develop a comprehensive report for the following exercises:
 
-  1. Explain the foundational concepts of Generative AI, Generative Model and it's types.
-  2. 2024 AI tools.
-  3. Explain what an LLM is and how it is built.
-  4. Create a Timeline Chart for defining the Evolution of AI
+1.     Explain the foundational concepts of Generative AI, Generative Model and it's types.
+2.     2024 AI tools.
+4.     Explain what an LLM is and how it is built.
+5.     Create a Timeline Chart for defining the Evolution of AI
      
 Algorithm:
 
