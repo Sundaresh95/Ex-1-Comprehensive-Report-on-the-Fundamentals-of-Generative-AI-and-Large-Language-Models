@@ -4,8 +4,8 @@ Experiment: Develop a comprehensive report for the following exercises:
 
 1.     Explain the foundational concepts of Generative AI, Generative Model and it's types.
 2.     2024 AI tools.
-4.     Explain what an LLM is and how it is built.
-5.     Create a Timeline Chart for defining the Evolution of AI
+3.     Explain what an LLM is and how it is built.
+4.     Create a Timeline Chart for defining the Evolution of AI
      
 Algorithm:
 
@@ -18,18 +18,36 @@ Step 1: Define Scope and Objectives
 
 Step 2: Create Report Skeleton/Structure
 
-  2.1 Title Page
+## 2.1 Title Page
+TITLE: Comprehensive Report on the Fundamentals of Generative AI and Large Language Models
+NAME: K SUNDARESH
+REG.NO: 212225220111
 
-  2.2 Abstract or Executive Summary
+ ## 2.2 Abstract or Executive Summary
 
-  2.3 Table of Contents
+A short summary of:
 
-  2.4 Introduction
+What the report covers
 
-  2.5 Main Body Sections:
+Key ideas
+
+Main conclusions
+## 2.3 Table of Contents
+
+Lists all sections and subtopics with page numbers.
+## 2.4 Introduction
+
+Provides an overview of:
+
+Artificial Intelligence
+
+Importance of Generative AI
+
+Scope of the report
+## 2.5 Main Body Sections:
 
   • Introduction to AI and Machine Learning
-
+Explain basic concepts of AI and how ML helps machines learn from data.
   • What is Generative AI?
 
   • Types of Generative AI Models (e.g., GANs, VAEs, Diffusion Models)
