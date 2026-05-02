@@ -10,11 +10,12 @@ Experiment: Develop a comprehensive report for the following exercises:
 Algorithm:
 
 # Step 1: Define Scope and Objectives
-  1.1 Identify the goal of the report (e.g., educational, research, tech overview)
 
-  1.2 Set the target audience level (e.g., students, professionals)
+## 1.1 Identify the goal of the report (e.g., educational, research, tech overview)
 
-  1.3 Draft a list of core topics to cover
+## 1.2 Set the target audience level (e.g., students, professionals)
+
+## 1.3 Draft a list of core topics to cover
 
 # Step 2: Create Report Skeleton/Structure
 
@@ -32,6 +33,7 @@ A short summary of:
 2. Key ideas
 
 3. Main conclusions
+   
 ## 2.3 Table of Contents
 
 Lists all sections and subtopics with page numbers.
@@ -44,6 +46,7 @@ Provides an overview of:
 2. Importance of Generative AI
 
 3. Scope of the report
+
 ## 2.5 Main Body Sections:
 
   • Introduction to AI and Machine Learning
@@ -51,6 +54,7 @@ Provides an overview of:
 Artificial Intelligence (AI) is a branch of computer science that focuses on creating machines capable of performing tasks that normally require human intelligence. These tasks include reasoning, learning, problem-solving, perception, and language understanding.
 
 Machine Learning (ML) is a subset of AI that enables machines to learn from data without being explicitly programmed. Instead of following fixed instructions, ML models improve their performance by analyzing patterns in data.
+
   • What is Generative AI?
 
 Generative AI is a type of artificial intelligence that focuses on generating new content such as text, images, audio, and video. Unlike traditional AI systems that classify or predict data, generative AI creates entirely new outputs based on learned patterns.
@@ -63,9 +67,11 @@ Generative models are algorithms that learn the probability distribution of data
 1. Generative Adversarial Networks (GANs)
 2. Variational Autoencoders (VAEs)
 3. Diffusion Models
+
   • Introduction to Large Language Models (LLMs)
 
 Large Language Models (LLMs) are advanced AI systems designed to understand and generate human language. They are trained on massive text datasets such as books, articles, and websites.
+
   • Architecture of LLMs (e.g., Transformer, GPT, BERT)
 
 Modern LLMs are based on the Transformer architecture, which is highly efficient and scalable.
@@ -73,6 +79,7 @@ Modern LLMs are based on the Transformer architecture, which is highly efficient
 2. Encoder and Decoder
 3. Positional Encoding
 4. Multi-Head Attention
+
   • Training Process and Data Requirements
 
 The process of building AI models, especially LLMs, involves several steps:
@@ -94,11 +101,29 @@ Large datasets are gathered from:
 
 ## 3. Model Training
 
-The model learns by predicting the next word in a sequence.
+Model training is a crucial stage in building a Large Language Model (LLM). During this process, the model learns patterns, relationships, and structure from large amounts of text data
+Example
+
+Input:
+Artificial Intelligence is
+
+Model Prediction:
+powerful / transforming / evolving
+
+Correct Sentence:
+Artificial Intelligence is transforming the world.
+
+The model learns from mistakes and improves its predictions over time.
 
 ## 4. Fine-Tuning
 
-The model is further trained on specific datasets to improve performance for certain tasks.
+Fine-tuning is the process of further training a pre-trained model on a specific dataset to improve its performance for particular tasks. After general training on large datasets, the model is adapted to perform specialized functions more accurately.
+
+Key Points
+1. Uses smaller, domain-specific data
+2. Builds on pre-trained knowledge
+3. Faster than training from scratch
+4. Enhances accuracy and relevance
 
 ## 5. Deployment
 
@@ -110,11 +135,11 @@ The trained model is used in real-world applications like chat
 
   • Future Trends
 
-2.6 Conclusion
+## 2.6 Conclusion
 
 Summarize the report findings.
 
-2.7 References
+## 2.7 References
 
 Include sources like:
 
@@ -133,6 +158,8 @@ Collect information from:
 
 3.2 Extract definitions, explanations, diagrams, and examples
 
+After collecting information from various sources, the next step is to carefully extract useful content such as definitions, explanations, diagrams, and examples. This helps in building a clear and well-structured report.
+
 Focus on:
 
 1. Definitions
@@ -140,6 +167,8 @@ Focus on:
 3. Diagrams
    
 3.3 Cite all sources properly
+
+Citing sources properly means giving credit to the original authors or organizations from where information is collected. It is an important part of report writing, especially in technical and academic work.
 
 Use standard formats like APA or IEEE.
 
