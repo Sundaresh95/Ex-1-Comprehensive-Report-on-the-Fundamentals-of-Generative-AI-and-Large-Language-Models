@@ -247,10 +247,10 @@ Peer-review and the use of digital tools are important steps in improving the qu
 ## 7.2 Export as PDF or desired format 7.3 Prepare a brief presentation if required (optional)
 
 
-Output:
+# Output:
 
 
-Result:
+# Result:
 
 The experiment on Generative AI and Large Language Models (LLMs) was successfully completed. A comprehensive report was developed covering the foundational concepts of Generative AI, types of generative models such as GANs, VAEs, and Diffusion models, and the working of Large Language Models.
 
