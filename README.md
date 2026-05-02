@@ -27,11 +27,11 @@ REG.NO: 212225220111
 
 A short summary of:
 
-What the report covers
+1. What the report covers
 
-Key ideas
+2. Key ideas
 
-Main conclusions
+3. Main conclusions
 ## 2.3 Table of Contents
 
 Lists all sections and subtopics with page numbers.
@@ -39,11 +39,11 @@ Lists all sections and subtopics with page numbers.
 
 Provides an overview of:
 
-Artificial Intelligence
+1. Artificial Intelligence
 
-Importance of Generative AI
+2. Importance of Generative AI
 
-Scope of the report
+3. Scope of the report
 ## 2.5 Main Body Sections:
 
   • Introduction to AI and Machine Learning
@@ -81,17 +81,17 @@ The process of building AI models, especially LLMs, involves several steps:
 
 Large datasets are gathered from:
 
-  Books
+1. Books
 
-  Websites
+2. Websites
   
-  Articles
+3. Articles
 
 2. Data Preprocessing
 Cleaning data
 Tokenization (splitting text into smaller units)
 
-4. Model Training
+3. Model Training
 
 The model learns by predicting the next word in a sequence.
 
