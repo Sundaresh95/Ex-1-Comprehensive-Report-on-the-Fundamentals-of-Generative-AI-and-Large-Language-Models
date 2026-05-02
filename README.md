@@ -148,7 +148,7 @@ Include sources like:
 
 # Step 3: Research and Data Collection
 
-3.1 Gather recent academic papers, blog posts, and official docs (e.g., OpenAI, Google AI) 
+## 3.1 Gather recent academic papers, blog posts, and official docs (e.g., OpenAI, Google AI) 
 
 Collect information from:
 
@@ -156,7 +156,7 @@ Collect information from:
 2. Websites
 3. Documentation
 
-3.2 Extract definitions, explanations, diagrams, and examples
+## 3.2 Extract definitions, explanations, diagrams, and examples
 
 After collecting information from various sources, the next step is to carefully extract useful content such as definitions, explanations, diagrams, and examples. This helps in building a clear and well-structured report.
 
@@ -166,7 +166,7 @@ Focus on:
 2. Examples
 3. Diagrams
    
-3.3 Cite all sources properly
+## 3.3 Cite all sources properly
 
 Citing sources properly means giving credit to the original authors or organizations from where information is collected. It is an important part of report writing, especially in technical and academic work.
 
