@@ -77,7 +77,7 @@ Modern LLMs are based on the Transformer architecture, which is highly efficient
 
 The process of building AI models, especially LLMs, involves several steps:
 
-1. Data Collection
+## 1. Data Collection
 
 Large datasets are gathered from:
 
@@ -87,19 +87,20 @@ Large datasets are gathered from:
   
 3. Articles
 
-2. Data Preprocessing
-Cleaning data
-Tokenization (splitting text into smaller units)
+## 2. Data Preprocessing
 
-3. Model Training
+1. Cleaning data
+2. Tokenization (splitting text into smaller units)
+
+## 3. Model Training
 
 The model learns by predicting the next word in a sequence.
 
-4. Fine-Tuning
+##4. Fine-Tuning
 
 The model is further trained on specific datasets to improve performance for certain tasks.
 
-5. Deployment
+## 5. Deployment
 
 The trained model is used in real-world applications like chat
 
